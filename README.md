@@ -4,7 +4,7 @@ A Nodejs + EJS + MongoDB + Express application to track issues/bugs for a projec
 # How to use ?
 Run this command in your GitHub CLI
 - gh repo clone 1AnujJoshi/Ninja-Bug-Tracker
-or use the URL
+# or use the URL
 https://github.com/1AnujJoshi/Ninja-Bug-Tracker.git
 
 # Features
